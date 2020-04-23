@@ -1,0 +1,15 @@
+.menu {
+    background: #ea2f39;
+    text-align: center;
+}
+
+.menu-item {
+    margin: 0 20px;
+    padding: 1rem 0;
+    color: #fff;
+
+    &._active {
+        color: #ffa;
+        font-weight: bold;
+    }
+}
